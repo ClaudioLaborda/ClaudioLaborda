@@ -2,34 +2,15 @@
 <h3 align="center">💻 Desarrollador Java | Estudiante UTN | Amante del código limpio</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+UTN+TUTI+%7C+Tecnicatura+en+TI;Desarrollador+Java+en+formación;Proyectos+UTN+y+personales;Apasionado+por+la+tecnología+y+la+lógica;&center=true&width=500&height=45&color=3fcf8e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3fcf8e&lines=Estudiante+UTN+TUTI+%7C+Tecnicatura+en+TI;Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica" alt="Typing SVG" />
 </p>
 
 ---
 
-<pre>
-<code>
+```ascii
        __|__
 --@--@--(_)--@--@--
  Claudio Laborda
  Estudiante de la Universidad Tecnológica Nacional (UTN)
- Desarrollador Java, amante del código y de la tecnología
-</code>
-</pre>
+ Desarrollador Java | Amante del código y la tecnología
 
----
-
-### 🛠️ Tecnologías que uso y estudio:
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" />
-</p>
-
----
-
-### ✨ Frase que me representa:
-
-> “El código es poesía. Cada compilación es una obra en progreso.”
-
----
