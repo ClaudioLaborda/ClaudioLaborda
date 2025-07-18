@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-%233FCF8E?style=for-the-badge&logo=java&logoColor=white" alt="Java Expert"/>
+  <img src="https://img.shields.io/badge/Java-Estudiante-%233FCF8E?style=for-the-badge&logo=java&logoColor=white" alt="Java Expert"/>
 </p>
 
 <pre align="center">
@@ -29,8 +29,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" title="NetBeans" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
+ 
 </p>
 
 ---
