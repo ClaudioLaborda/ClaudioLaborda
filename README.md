@@ -1,8 +1,8 @@
-<h1 align="center">👋 ¡Hola! Soy Claudio Laborda</h1>
+# ¡Hola! Soy Claudio Laborda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<h3 align="center" style="animation: fadeIn 2s ease-in-out infinite alternate;">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
+## <span style="display: inline-block; animation: fadeIn 2s ease-in-out infinite alternate;">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</span>
 
-<p align="center" style="color: green; font-weight: bold; animation: pulse 2s infinite;">
+<p style="text-align: center; color: green; font-weight: bold; animation: pulse 2s infinite;">
   <strong>Amante de la tecnología y la lógica</strong>
 </p>
 
@@ -18,6 +18,9 @@
     100% { transform: scale(1); opacity: 0.9; }
   }
 </style>
+
+
+
 
 ---
 
