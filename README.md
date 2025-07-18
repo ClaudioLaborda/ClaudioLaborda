@@ -1,17 +1,28 @@
 <h1 align="center">👋 ¡Hola! Soy Claudio Laborda</h1>
 
-<h3 align="center">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
+<h3 align="center" style="animation: fadeIn 2s ease-in-out infinite alternate;">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
 
-<p align="center" style="color: green; font-weight: bold;">
+<p align="center" style="color: green; font-weight: bold; animation: pulse 2s infinite;">
   <strong>Amante de la tecnología y la lógica</strong>
 </p>
 
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0.7; transform: scale(0.98); }
+    to { opacity: 1; transform: scale(1.02); }
+  }
+  
+  @keyframes pulse {
+    0% { transform: scale(1); opacity: 0.9; }
+    50% { transform: scale(1.03); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.9; }
+  }
+</style>
+
 ---
 
-
-
-
-
+<pre align="center">
+<code>
        __|__
 --@--@--(_)--@--@--
  Claudio Laborda
@@ -33,7 +44,4 @@
 
 ### ✨ Frase que me representa:
 
-> “El código es poesía. Cada compilación es una obra en progreso.”
-
----
-
+> "El código es poesía. Cada compilación es una obra en progreso."
