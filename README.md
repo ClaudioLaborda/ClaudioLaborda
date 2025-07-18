@@ -1,17 +1,4 @@
 
-Ese bloque **oculta el contenido en una caja**, así que tu arte ASCII **no se mostraba bien**.
-
----
-
-### ✅ Solución: usar HTML `<pre>` y `<code>` en lugar de ```ascii
-
-Te paso todo el `README.md` corregido y funcionando 100%, incluido el arte ASCII bien visible.
-
----
-
-### 🎯 README.md COMPLETO ✅ FUNCIONAL ✅ COPIAR Y PEGAR:
-
-```markdown
 <h1 align="center">👋 ¡Hola! Soy Claudio Laborda</h1>
 <h3 align="center">💻 Desarrollador Java | Estudiante UTN | Amante del código limpio</h3>
 
@@ -79,3 +66,4 @@ Te paso todo el `README.md` corregido y funcionando 100%, incluido el arte ASCII
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=claudiolaborda&label=Visitas+al+perfil&color=3fcf8e&style=flat" alt="claudiolaborda" />
 </p>
+
