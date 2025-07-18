@@ -8,11 +8,12 @@
 ---
 
 ```ascii
-       __|__
---@--@--(_)--@--@--
- Claudio Laborda
- Estudiante de la Universidad Tecnológica Nacional (UTN)
- Desarrollador Java, amante del código y de la tecnología
+
+
+   __|__
+
+
+
 
 ---
 
@@ -28,3 +29,10 @@
 ### ✨ Frase que me representa:
 
 > “El código es poesía. Cada compilación es una obra en progreso.”
+
+       __|__
+--@--@--(_)--@--@--
+ Claudio Laborda
+ Estudiante de la Universidad Tecnológica Nacional (UTN)
+ Desarrollador Java, amante del código y de la tecnología
+
