@@ -1,11 +1,14 @@
 <h1 align="center">👋 ¡Hola! Soy Claudio Laborda</h1>
-<h3 align="center">💻 Desarrollador Java | Estudiante UTN | Amante del código limpio</h3>
+
+<h3 align="center">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+UTN+TUTI+%7C+Tecnicatura+en+TI;Desarrollador+Java+en+formación;Proyectos+UTN+y+personales;Apasionado+por+la+tecnología+y+la+lógica;&center=true&width=500&height=45&color=3fcf8e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Estudiante+UTN+TUTI;Desarrollador+Java+y+proyectos+UTN+y+personales;Apasionado+por+la+tecnología+y+la+lógica;&center=true&width=500&height=45&color=3fcf8e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 ---
+
+
 
 <pre>
 <code>
