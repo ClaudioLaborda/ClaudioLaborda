@@ -10,6 +10,9 @@
 
 ```ascii
        __|__
+<pre align="center">
+<code>
+       __|__
 --@--@--(_)--@--@--
  Claudio Laborda
  Estudiante de la Universidad Tecnológica Nacional (UTN)
