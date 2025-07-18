@@ -11,7 +11,16 @@
 <pre align="center">
 <code>
        __|__
---@--@--(_)--@--@--
+--@--@--(JAVA)--@--@--
+</code>
+</pre>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-%233FCF8E?style=for-the-badge&logo=java&logoColor=white" alt="Java Expert"/>
+</p>
+
+<pre align="center">
+<code>
  Claudio Laborda
  Estudiante de la Universidad Tecnológica Nacional (UTN)
  Desarrollador Java, amante del código y de la tecnología
