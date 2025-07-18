@@ -2,16 +2,16 @@
 
 <h3 align="center">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Estudiante+UTN+TUTI;Desarrollador+Java+y+proyectos+UTN+y+personales;Apasionado+por+la+tecnología+y+la+lógica;&center=true&width=500&height=45&color=3fcf8e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+<p align="center" style="color: green; font-weight: bold;">
+  <strong>Amante de la tecnología y la lógica</strong>
 </p>
 
 ---
 
 
 
-<pre>
-<code>
+
+
        __|__
 --@--@--(_)--@--@--
  Claudio Laborda
