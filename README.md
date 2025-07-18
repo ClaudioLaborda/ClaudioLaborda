@@ -1,31 +1,14 @@
-# ¡Hola! Soy Claudio Laborda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<h1 align="center">👋 ¡Hola! Soy Claudio Laborda</h1>
 
-## <span style="display: inline-block; animation: fadeIn 2s ease-in-out infinite alternate;">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</span>
+<h3 align="center">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
 
-<p style="text-align: center; color: green; font-weight: bold; animation: pulse 2s infinite;">
-  <strong>Amante de la tecnología y la lógica</strong>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=3fcf8e&center=true&width=500&lines=Estudiante+UTN+TUTI+%7C+Tecnicatura+en+TI;Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica" alt="Typing SVG" />
 </p>
-
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0.7; transform: scale(0.98); }
-    to { opacity: 1; transform: scale(1.02); }
-  }
-  
-  @keyframes pulse {
-    0% { transform: scale(1); opacity: 0.9; }
-    50% { transform: scale(1.03); opacity: 1; }
-    100% { transform: scale(1); opacity: 0.9; }
-  }
-</style>
-
-
-
 
 ---
 
-<pre align="center">
-<code>
+```ascii
        __|__
 --@--@--(_)--@--@--
  Claudio Laborda
