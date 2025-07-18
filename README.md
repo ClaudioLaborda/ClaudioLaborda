@@ -12,8 +12,7 @@
 <code>
      
 
-</code>
-</pre>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Estudiante-%233FCF8E?style=for-the-badge&logo=java&logoColor=white" alt="Java Expert"/>
