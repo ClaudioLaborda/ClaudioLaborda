@@ -10,7 +10,7 @@
 
 <pre align="center">
 <code>
-       __|__
+     
 
 </code>
 </pre>
