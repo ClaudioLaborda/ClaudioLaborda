@@ -42,12 +42,13 @@ Soy un estudiante de programacion, y amante de la tecnologia.
   <!--icons and links-->
 <p align="left" style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/claudio-laborda" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" width="50" style="background: #0A66C2; border-radius: 5px; padding: 5px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" height="50" width="50" style="border-radius: 5px;"/>
   </a>
   <a href="mailto:claudiolaborda@outlook.com" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Outlook" height="50" width="50"/>
   </a>
 </p>
+
 
 ---
  🛠️ Tecnologías que uso y estudio:
