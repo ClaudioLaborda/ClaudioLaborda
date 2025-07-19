@@ -5,7 +5,7 @@
 <h3 align="center">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3fcf8e&center=true&width=500&lines=Estudiante+UTN+TUTI;Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3fcf8e&center=true&width=500&lines=Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica" alt="Typing SVG" />
 </p>
 
 
@@ -20,7 +20,7 @@
 	
 
 
-<br><br>
+
 
 
 
