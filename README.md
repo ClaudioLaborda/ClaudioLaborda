@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <table width="100%" >
 
  <tr>
-    <td width="60%">
+    <td width="90%">
 
 <br>
  🛠️ Tecnologías que uso y estudio:
