@@ -2,8 +2,10 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
+<h3 align="center">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=3fcf8e&center=true&width=500&lines=Estudiante+UTN+TUTI;Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica" alt="Typing SVG" />
 </p>
 
 
@@ -25,7 +27,7 @@
 
 
 
-<h2> Hey there! I'm Mohamed Magdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2> Hey there! I'm Claudio Oscar Laborda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
