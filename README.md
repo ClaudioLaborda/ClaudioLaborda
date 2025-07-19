@@ -43,8 +43,8 @@ Soy un estudiante de programacion, y amante de la tecnologia.
   <p align="left">
   <a href="https://www.linkedin.com/in/claudio-laborda" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 	  
-<a href="claudiolaborda@outlook.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/1200px-Microsoft_Office_Outlook_%282018–present%29.svg.png" alt="Icono de Outlook" height="50" width="50" />
+<a href="mailto:mohamed.m.alsehli@outlook.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/240px-Microsoft_Office_Outlook_%282018–present%29.svg.png" alt="Outlook" height="50" width="50" />
 </a>
  
   </p>
