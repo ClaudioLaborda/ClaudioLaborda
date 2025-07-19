@@ -37,13 +37,13 @@ Soy un estudiante de programacion, y amante de la tecnologia.
   <!--h2 without bottom border-->
   <div id="user-content-toc">
     <ul align="left">
-      <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
+      <summary><h2 style="display: inline-block">contáctame🤝</h2></summary>
     </ul>
   <!--icons and links-->
 <p align="left" style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/claudio-laborda" target="_blank" rel="noopener noreferrer" style="text-decoration: none; line-height: 0;">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" height="50" width="50" style="border-radius: 5px;"/>
-  </a>
+ 
   <a href="mailto:claudiolaborda@outlook.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; line-height: 0;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Outlook" height="50" width="50"/>
   </a>
