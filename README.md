@@ -48,8 +48,7 @@ Soy un estudiante de programacion, y amante de la tecnologia.
   </div>
 
 ---
-
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+ 🛠️ Tecnologías que uso y estudio:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
@@ -57,16 +56,10 @@ Soy un estudiante de programacion, y amante de la tecnologia.
  
 </p>
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-
-
-
 ---
+
+
 
 ✨ Frase que me representa:
 
-> "El código es poesía. Cada compilación es una obra en progreso."
+> “Los programas deben ser escritos para que las personas lo lean y sólo casualmente para que las máquinas lo ejecuten”
