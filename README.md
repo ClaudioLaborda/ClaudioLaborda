@@ -20,7 +20,7 @@
 	
 
 
-<h2> Hey there! I'm Claudio Oscar Laborda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2> Hey there! I'm Claudio  Laborda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
@@ -42,10 +42,10 @@ Soy un estudiante de programacion, y amante de la tecnologia.
   <!--icons and links-->
 <p align="left" style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/claudio-laborda" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" width="50" style="transition: transform 0.3s ease;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" width="50" style="background: #0A66C2; border-radius: 5px; padding: 5px;"/>
   </a>
   <a href="mailto:claudiolaborda@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Outlook" height="50" width="50" style="transition: transform 0.3s ease;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Outlook" height="50" width="50"/>
   </a>
 </p>
 
