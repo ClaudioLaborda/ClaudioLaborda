@@ -28,9 +28,7 @@
 </p>
 
 <pre align="center">
-/p>
 
----
 
 ### 🛠️ Tecnologías que uso y estudio:
 
