@@ -38,8 +38,8 @@
 
 Soy un estudiante de programacion, y amante de la tecnologia.
 
-- 🎓 &nbsp; Actualmente estoy estudiando la Tecnicatura Universitaria en Tecnologias de la Informacion en la Universidad Tecnologica Nacional .
-- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
+- 🎓 &nbsp; Actualmente estoy estudiando la Tecnicatura Universitaria en Tecnologias de la Informacion en la Universidad Tecnologica Nacional (UTN) .
+- 🌱 &nbsp; Me gusta aprender sobre Programacion , Microcontroladores, Sistemas operativos , e impresion 3D.
   <!-- Connect with me -->
   <!--h2 without bottom border-->
   <div id="user-content-toc">
@@ -61,6 +61,7 @@ Soy un estudiante de programacion, y amante de la tecnologia.
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+  [!Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
