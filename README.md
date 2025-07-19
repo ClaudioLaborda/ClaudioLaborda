@@ -62,4 +62,4 @@ Soy un estudiante de programacion, y amante de la tecnologia.
 
 ✨ Frase que me representa:
 
-> “Los programas deben ser escritos para que las personas lo lean y sólo casualmente para que las máquinas lo ejecuten”
+> “ Los programas deben ser escritos para que las personas lo lean y sólo casualmente para que las máquinas lo ejecuten ”
