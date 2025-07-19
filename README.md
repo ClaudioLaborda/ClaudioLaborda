@@ -29,8 +29,7 @@
 
 <pre align="center">
 
-
-   <!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -56,9 +55,7 @@
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
-
-
-### 🛠️ Tecnologías que uso y estudio:
+ 🛠️ Tecnologías que uso y estudio:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
@@ -68,6 +65,6 @@
 
 ---
 
-### ✨ Frase que me representa:
+✨ Frase que me representa:
 
 > "El código es poesía. Cada compilación es una obra en progreso."
