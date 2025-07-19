@@ -36,9 +36,9 @@
 
 
 
-I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
+Soy un estudiante de programacion, y amante de la tecnologia.
 
-- 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
+- 🎓 &nbsp; Actualmente estoy estudiando la Tecnicatura Universitaria en Tecnologias de la Informacion en la Universidad Tecnologica Nacional .
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
   <!-- Connect with me -->
   <!--h2 without bottom border-->
