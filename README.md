@@ -52,6 +52,6 @@ Soy un estudiante de programación y amante de la tecnología.
 ## ✨ Frase que me representa:
 
 <blockquote>
-  “Los programas deben ser escritos para que las personas los lean y solo ocasionalmente para que las máquinas los ejecuten.”
+  “ Los programas deben ser escritos para que las personas los lean y solo ocasionalmente para que las máquinas los ejecuten ” (Abelson & Sussman, 1996).
 </blockquote>
 
