@@ -40,19 +40,14 @@ Soy un estudiante de programacion, y amante de la tecnologia.
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
     </ul>
   <!--icons and links-->
-  <p align="left">
-<a href="https://www.linkedin.com/in/claudio-laborda" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" width="50" />
-</a>
-
-  
-<p align="left">	  
-<a href="mailto:claudiolaborda@outlook.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/240px-Microsoft_Office_Outlook_%282018–present%29.svg.png" alt="Outlook" height="50" width="50" /></a>
-
- 
-  </p>
-  </div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/claudio-laborda" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="mailto:claudiolaborda@outlook.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/240px-Microsoft_Office_Outlook_%282018–present%29.svg.png" alt="Outlook" height="50" width="50" />
+  </a>
+</p>
 
 ---
  🛠️ Tecnologías que uso y estudio:
