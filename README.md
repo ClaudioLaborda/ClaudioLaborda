@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 
-<table width="100%" >
+<table width="50%" >
 
  <tr>
     <td width="90%">
