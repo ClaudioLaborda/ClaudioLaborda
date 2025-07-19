@@ -3,7 +3,34 @@
 </div>
 
 
-<!--horizontal divider(gradiant)-->
+
+
+
+
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+🌱 I’m currently learning **WEB Development Full-Stack**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h3 align="center">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=3fcf8e&center=true&width=500&lines=Estudiante+UTN+TUTI;Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica" alt="Typing SVG" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Estudiante-%233FCF8E?style=for-the-badge&logo=java&logoColor=white" alt="Java Expert"/>
+</p>
+
+<pre align="center">
+
+
+   <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -29,30 +56,6 @@
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
-
-
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-🌱 I’m currently learning **WEB Development Full-Stack**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<h3 align="center">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3fcf8e&center=true&width=500&lines=Estudiante+UTN+TUTI;Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica" alt="Typing SVG" />
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Estudiante-%233FCF8E?style=for-the-badge&logo=java&logoColor=white" alt="Java Expert"/>
-</p>
-
-<pre align="center">
 
 
 ### 🛠️ Tecnologías que uso y estudio:
