@@ -5,7 +5,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:fdfcfc,50:822fa4,100:000000&reversal=true&animation=fadeIn" />
 </div>
 
-<h3 align="center"> Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
+<h3 align="center"> Desarrollador Java | Estudiante UTN TUTI | ✨ Apasionado por las buenas prácticas </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A64AC9&center=true&vCenter=true&width=500&lines=Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica;Siempre+aprendiendo+y+creciendo" alt="Typing SVG" />
@@ -57,11 +57,11 @@ Soy un estudiante de programación y amante de la tecnología.
 ## ✨ Frase que me representa como código:
 
 ```java
-public class CodigoLimpio {
+public class ClaudioLaborda {
     public static void main(String[] args) {
         System.out.println("Los programas deben ser escritos para que las personas los lean");
         System.out.println("y solo ocasionalmente para que las máquinas los ejecuten.");
-        System.out.println("- Abelson & Sussman (1996)");
+        System.out.println("- Abelson & Sussman (1996) -");
     }
 }
 
