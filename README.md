@@ -38,18 +38,6 @@ Soy un estudiante de programación y amante de la tecnología.
 
 ---
 
-## ✨ Frase que me representa como código:
-
-```java
-public class CodigoLimpio {
-    public static void main(String[] args) {
-        System.out.println("Los programas deben ser escritos para que las personas los lean");
-        System.out.println("y solo ocasionalmente para que las máquinas los ejecuten.");
-        System.out.println("- Abelson & Sussman (1996)");
-    }
-}
-
----
 
 ## 🤝 Contáctame
 
@@ -63,3 +51,18 @@ public class CodigoLimpio {
 </p>
 
 </div>
+
+---
+
+## ✨ Frase que me representa como código:
+
+```java
+public class CodigoLimpio {
+    public static void main(String[] args) {
+        System.out.println("Los programas deben ser escritos para que las personas los lean");
+        System.out.println("y solo ocasionalmente para que las máquinas los ejecuten.");
+        System.out.println("- Abelson & Sussman (1996)");
+    }
+}
+
+
