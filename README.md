@@ -38,24 +38,15 @@ Soy un estudiante de programación y amante de la tecnología.
 
 ---
 
-## ✨ Frase que me representa:
+## ✨ Frase que me representa como código:
 
-<blockquote>
-  “Los programas deben ser escritos para que las personas los lean y solo ocasionalmente para que las máquinas los ejecuten” (Abelson & Sussman, 1996).
-</blockquote>
+```java
+public class CodigoLimpio {
+    public static void main(String[] args) {
+        System.out.println("Los programas deben ser escritos para que las personas los lean");
+        System.out.println("y solo ocasionalmente para que las máquinas los ejecuten.");
+        System.out.println("- Abelson & Sussman (1996)");
+    }
+}
 
----
-
-## 🤝 Contáctame
-
-<p align="left" style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://www.linkedin.com/in/claudio-laborda" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" height="50" width="50" style="border-radius: 5px;" />
-  </a>
-  <a href="mailto:claudiolaborda@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Outlook" height="50" width="50" />
-  </a>
-</p>
-
-</div>
 
