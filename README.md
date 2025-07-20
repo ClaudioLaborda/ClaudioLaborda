@@ -41,7 +41,7 @@ Soy un estudiante de programación y amante de la tecnología.
 
 ## 🤝 Contáctame
 
-<p align="left" style="display: flex; gap: 15px; align-items: center;">
+<p align="center" style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/claudio-laborda" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" height="50" width="50" style="border-radius: 5px;" />
   </a>
