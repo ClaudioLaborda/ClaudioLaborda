@@ -5,9 +5,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:fdfcfc,50:822fa4,100:000000&reversal=true&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <h3 style="color: #A64AC9">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</h3>
-</div>
+<h3 align="center"><span style="color: #A64AC9">💻 Desarrollador Java | Estudiante UTN TUTI | Amante del código limpio</span></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A64AC9&center=true&vCenter=true&width=500&lines=Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica;Siempre+aprendiendo+y+creciendo" alt="Typing SVG" />
