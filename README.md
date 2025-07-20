@@ -1,4 +1,4 @@
-<!-- Fondo -->
+<!-- Fondo con imagen personalizada -->
 <div style="background: url('https://raw.githubusercontent.com/Claudio-Laborda/Claudio-Laborda/main/usar.png') no-repeat center center fixed; background-size: cover; padding: 30px;">
 
 <div align="center">
@@ -10,10 +10,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A64AC9&center=true&vCenter=true&width=500&lines=Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica;Siempre+aprendiendo+y+creciendo" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
 
 <br>
 
@@ -60,12 +56,6 @@ Soy un estudiante de programación y amante de la tecnología.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Outlook" height="50" width="50" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300"/>
-</div>
 
 </div>
 
