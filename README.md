@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/Claudio-Laborda/Claudio-Laborda/assets/your-github-user-id/developer-laptop.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 <br>
@@ -27,20 +27,14 @@ Soy un estudiante de programación y amante de la tecnología.
 
 ---
 
-## 🚀 Mis estadísticas en GitHub:
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Claudio-Laborda&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Laborda&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🛠️ Tecnologías que uso y estudio:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" title="NetBeans" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" title="Apple/macOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" title="Windows" />
 </p>
 
 ---
@@ -60,14 +54,4 @@ Soy un estudiante de programación y amante de la tecnología.
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" height="50" width="50" style="border-radius: 5px;" />
   </a>
   <a href="mailto:claudiolaborda@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Outlook" height="50" width="50" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/Claudio-Laborda/Claudio-Laborda/assets/your-github-user-id/terminal-coding.gif" width="300"/>
-</div>
-
----
+    <img src="https://upload.w
