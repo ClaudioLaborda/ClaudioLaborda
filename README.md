@@ -1,3 +1,6 @@
+<!-- Fondo -->
+<div style="background: url('https://raw.githubusercontent.com/Claudio-Laborda/Claudio-Laborda/main/usar.png') no-repeat center center fixed; background-size: cover; padding: 30px;">
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:fdfcfc,50:822fa4,100:000000&reversal=true&animation=fadeIn" />
 </div>
@@ -54,4 +57,15 @@ Soy un estudiante de programación y amante de la tecnología.
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" height="50" width="50" style="border-radius: 5px;" />
   </a>
   <a href="mailto:claudiolaborda@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.w
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Outlook" height="50" width="50" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300"/>
+</div>
+
+</div>
+
