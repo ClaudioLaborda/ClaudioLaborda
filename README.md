@@ -56,7 +56,7 @@ Soy un estudiante de programación y amante de la tecnología.
 ## 📄 Mi CV
 
 <p align="center">
-  <a href="https://github.com/Claudio-Laborda/Claudio-Laborda/blob/main/CV-ClaudioLaborda.pdf" target="_blank">
+  <a href="https://github.com/ClaudioLaborda/ClaudioLaborda/blob/main/Curriculum%20Vitae.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20mi%20CV-Aquí-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Claudio Laborda">
   </a>
 </p>
