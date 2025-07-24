@@ -7,10 +7,7 @@
 
 <h3 align="center"> Desarrollador Java | Estudiante UTN TUTI |  Apasionado por las buenas prácticas </h3>
 
-<!-- Contador de visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Claudio-Laborda&label=Visitas+al+perfil&color=822fa4&style=flat-square" alt="Visitas al perfil" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A64AC9&center=true&vCenter=true&width=500&lines=Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica;Siempre+aprendiendo+y+creciendo" alt="Typing SVG" />
@@ -67,6 +64,12 @@ Soy un estudiante de programación y amante de la tecnología.
 </p>
 
 ---
+<!-- Contador de visitas -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Claudio-Laborda&label=Visitas+al+perfil&color=822fa4&style=flat-square" alt="Visitas al perfil" />
+</p>
+---
+
 
 ## ✨ Frase que me representa como código:
 
