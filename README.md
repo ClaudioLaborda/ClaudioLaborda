@@ -7,8 +7,6 @@
 
 <h3 align="center"> Desarrollador Java | Estudiante UTN TUTI |  Apasionado por las buenas prácticas </h3>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A64AC9&center=true&vCenter=true&width=500&lines=Desarrollador+Java+en+formación;Amante+de+la+tecnología+y+la+lógica;Siempre+aprendiendo+y+creciendo" alt="Typing SVG" />
 </p>
@@ -55,21 +53,16 @@ Soy un estudiante de programación y amante de la tecnología.
 
 ---
 
-## 📄 Mi CV
+## 📄 Mi CV y visitas
 
 <p align="center">
   <a href="https://github.com/ClaudioLaborda/ClaudioLaborda/blob/main/Curriculum%20Vitae.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20mi%20CV-Aquí-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Claudio Laborda">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Claudio-Laborda&label=Visitas+al+perfil&color=822fa4&style=flat-square" alt="Visitas al perfil" style="margin-left: 16px; vertical-align: middle;" />
 </p>
 
 ---
-<!-- Contador de visitas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Claudio-Laborda&label=Visitas+al+perfil&color=822fa4&style=flat-square" alt="Visitas al perfil" />
-</p>
----
-
 
 ## ✨ Frase que me representa como código:
 
