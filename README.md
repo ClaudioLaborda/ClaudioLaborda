@@ -59,7 +59,7 @@ Soy un estudiante de programación y amante de la tecnología.
   <a href="https://github.com/ClaudioLaborda/ClaudioLaborda/blob/main/Curriculum%20Vitae.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20mi%20CV-Aquí-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Claudio Laborda">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Claudio-Laborda&label=Visitas%20al%20perfil&color=822fa4&style=for-the-badge" alt="Visitas al perfil" />
+  
 </p>
 
 
