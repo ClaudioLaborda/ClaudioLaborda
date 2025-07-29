@@ -19,7 +19,7 @@
 
 
 
-Soy un estudiante de programación y amante de la tecnología.
+
 
 - 🎓 Actualmente estoy estudiando la **Tecnicatura Universitaria en Tecnologías de la Información** en la Universidad Tecnológica Nacional (UTN).
 - 🌱 Me gusta aprender sobre programación, microcontroladores, sistemas operativos e impresión 3D.
