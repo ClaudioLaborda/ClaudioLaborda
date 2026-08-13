@@ -16,11 +16,6 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" align="right" />
 
-
-
-
-
-
 - 🎓 Actualmente estoy estudiando la **Tecnicatura Universitaria en Tecnologías de la Información** en la Universidad Tecnológica Nacional (UTN).
 - 🌱 Me gusta aprender sobre programación, microcontroladores, sistemas operativos e impresión 3D.
 
@@ -43,7 +38,7 @@
 <p align="center" style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/claudio-laborda" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" height="50" width="50" style="border-radius: 5px;" />
-  
+  </a>
 </p>
 
 </div>
@@ -53,7 +48,7 @@
 ## 📄 Mi CV y visitas
 
 <p align="center">
-  <a href="https://github.com/ClaudioLaborda/ClaudioLaborda/blob/main/Curriculum%20Vitae.pdf" target="_blank">
+  <a href="https://github.com/ClaudioLaborda/ClaudioLaborda/blob/main/ClaudioLaborda.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20mi%20CV-Aquí-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Claudio Laborda">
   </a>
   
@@ -70,5 +65,3 @@ public class ClaudioLaborda {
         System.out.println("- Abelson & Sussman (1996) -");
     }
 }
-
-
