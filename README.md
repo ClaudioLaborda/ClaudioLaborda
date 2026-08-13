@@ -1,4 +1,4 @@
-<!-- Fondo con imagen personalizada -->
+
 <div style="background: url('https://raw.githubusercontent.com/Claudio-Laborda/Claudio-Laborda/main/usar.png') no-repeat center center fixed; background-size: cover; padding: 30px;">
 
 <div align="center">
