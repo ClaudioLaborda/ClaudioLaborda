@@ -16,21 +16,50 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" align="right" />
 
-- 🎓 Actualmente estoy estudiando la **Tecnicatura Universitaria en Tecnologías de la Información** en la Universidad Tecnológica Nacional (UTN).
-- 🌱 Me gusta aprender sobre programación, microcontroladores, sistemas operativos e impresión 3D.
+-  Actualmente estoy estudiando la **Tecnicatura Universitaria en Tecnologías de la Información** en la Universidad Tecnológica Nacional (UTN).
+-  Me gusta aprender sobre programación, ciberseguridad , sistemas operativos e impresión 3D.
 
 ---
 
 ## 🛠️ Tecnologías que uso y estudio:
 
+### ⚙️ Backend & Lenguajes
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" title="NetBeans" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" title="Apple/macOS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" title="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel" hspace="10" />
 </p>
 
+### 🌐 Frontend & Web
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" title="Sass" hspace="10" />
+</p>
+
+### 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" title="MariaDB" hspace="10" />
+</p>
+
+### 🐳 DevOps, Entornos & Control de Versiones
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="Visual Studio Code" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="45" title="NetBeans" hspace="10" />
+</p>
+
+### 💻 Sistemas Operativos
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" title="Windows" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux" hspace="10" />
+</p>
 ---
 
 ## 🤝 Contáctame
@@ -45,7 +74,7 @@
 
 ---
 
-## 📄 Mi CV y visitas
+## 📄 Mi CV 
 
 <p align="center">
   <a href="https://github.com/ClaudioLaborda/ClaudioLaborda/blob/main/ClaudioLaborda.pdf" target="_blank">
