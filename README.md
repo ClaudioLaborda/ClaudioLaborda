@@ -20,7 +20,6 @@
 -  Me gusta aprender sobre programación, ciberseguridad , sistemas operativos e impresión 3D.
 
 ---
-
 ## 🛠️ Tecnologías que uso y estudio:
 
 ### ⚙️ Backend & Lenguajes
@@ -38,6 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" title="Sass" hspace="10" />
+</p>
+
+### 🛡️ Ciberseguridad & Pentesting
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/hackthebox.svg" width="45" title="Hack The Box" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" width="45" title="Nmap" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="45" title="Wireshark" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" width="45" title="Burp Suite" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="45" title="Metasploit" hspace="10" />
 </p>
 
 ### 🗄️ Bases de Datos
