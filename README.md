@@ -41,11 +41,11 @@
 
 ### 🛡️ Ciberseguridad & Pentesting
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/hackthebox.svg" width="45" title="Hack The Box" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" width="45" title="Nmap" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="45" title="Wireshark" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" width="45" title="Burp Suite" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="45" title="Metasploit" hspace="10" />
+  <img src="https://img.shields.io/badge/Burp%2FSuite-F7931E?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" hspace="5" />
+  <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" hspace="5" />
+  <img src="https://img.shields.io/badge/Nmap-01589B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" hspace="5" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" hspace="5" />
+  <img src="https://img.shields.io/badge/Metasploit-121212?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" hspace="5" />
 </p>
 
 ### 🗄️ Bases de Datos
